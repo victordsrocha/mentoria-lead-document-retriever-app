@@ -1,1 +1,1 @@
-mentoria-lead-document-retriever-app
+document_retriever_app
